@@ -137,6 +137,28 @@
   <ItemGroup>
     <Folder Include="Libraries\WPF Extended\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Media\Images\24-General Queue.png" />
+    <Resource Include="Media\Images\24-Hasher Queue.png" />
+    <Resource Include="Media\Images\24-Image Queue.png" />
+    <Resource Include="Media\Images\26-Calendar.png" />
+    <Resource Include="Media\Images\26-Collection.png" />
+    <Resource Include="Media\Images\26-Downloads.png" />
+    <Resource Include="Media\Images\26-Favorites.png" />
+    <Resource Include="Media\Images\26-Home.png" />
+    <Resource Include="Media\Images\26-Playlists.png" />
+    <Resource Include="Media\Images\26-Search.png" />
+    <Resource Include="Media\Images\26-Settings.png" />
+    <Resource Include="Media\Images\26-User1.png" />
+    <Resource Include="Media\Images\26-User2.png" />
+    <Resource Include="Media\Images\26-User3.png" />
+    <Resource Include="Media\Images\26-User4.png" />
+    <Resource Include="Media\Images\26-Utilities.png" />
+    <Resource Include="Media\Images\38-Display.png" />
+    <Resource Include="Media\Images\38-Left Arrow.png" />
+    <Resource Include="Media\Images\38-Right Arrow.png" />
+    <Resource Include="Media\Images\38-Sort.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
