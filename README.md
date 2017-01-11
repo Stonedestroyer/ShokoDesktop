@@ -7,5 +7,5 @@ this project on Discord with us by mentioning ClientV2 as that's what it's known
 However we can't just create this new repo and leave you with nothing so here's a mockup of what we're planning Shoko Desktop
 to look like. Please keep in mind we are still in the early development stages and things can and will change. 
 
-![Alt text](http://i.imgur.com/flBLccp.pngp "Shoko Desktop - WIP")
+![Alt text](http://i.imgur.com/F77YSTg.png "Shoko Desktop - WIP")
  
